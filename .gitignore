@@ -30,6 +30,8 @@ build/
 # IDE and OS
 .idea/
 .vscode/
+.cursor/
+.cursorignore
 *.swp
 *.swo
 .DS_Store
